@@ -1,4 +1,4 @@
-[![Boosty](https://img.shields.io/badge/Boosty-поддержать-f15f2c?style=for-the-badge)](https://boosty.to/knigaperevodchik)
+[![Boosty](https://img.shields.io/badge/Boosty-DONATE-f15f2c?style=for-the-badge)](https://boosty.to/knigaperevodchik)
 
 # morph_dict_convert
 
