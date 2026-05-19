@@ -1,3 +1,5 @@
+[![Boosty](https://img.shields.io/badge/Boosty-поддержать-f15f2c?style=for-the-badge)](https://boosty.to/knigaperevodchik)
+
 # morph_dict_convert
 
 Скрипт превращает обычный толковый словарь в морфологический — чтобы поиск работал по любой форме слова.
