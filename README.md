@@ -1,6 +1,63 @@
-[![Boosty](https://img.shields.io/badge/Boosty-DONATE-f15f2c?style=for-the-badge)](https://boosty.to/knigaperevodchik)
+# 📚 # morph_dict_convert
 
-# morph_dict_convert
+<!-- Языковой навигатор / Language Navigation -->
+<p align="center">
+  <a href="#-поддержать-проект-ru">Русский</a> • 
+  <a href="#-support-the-project-en">English</a> • 
+  <a href="#-支持此项目-zh">简体中文</a>
+</p>
+
+---
+
+## 💰 Поддержать проект [RU]
+
+[![Boosty](https://img.shields.io/badge/Boosty-ПОДДЕРЖАТЬ-f15f2c?style=for-the-badge)](https://boosty.to/knigaperevodchik)
+[![TON](https://img.shields.io/badge/TON-USDT-0088cc?style=for-the-badge)](https://ton.org)
+[![TRC20](https://img.shields.io/badge/TRC-USDT-26A17B?style=for-the-badge)]()
+
+Если этот проект сэкономил ваше время или помог в работе, вы можете поддержать его развитие:
+
+| Платформа / Сеть | Ссылка / Адрес кошелька |
+| :--- | :--- |
+| **Boosty** (Карты/Рубли) | [https://boosty.to/knigaperevodchik](https://boosty.to/knigaperevodchik) |
+| **TON** (USDT) | `UQBWKwf2mgakNi4Ls2I6NNs1okcDyCxivdxxc22ypsMV4590` |
+| **TRC20** (USDT) | `TDdok5FgB6fJSXZrPzxnn7hMk4qREUZPJe` |
+
+---
+
+## 💰 Support the Project [EN]
+
+[![Boosty](https://img.shields.io/badge/Boosty-DONATE-f15f2c?style=for-the-badge)](https://boosty.to/knigaperevodchik)
+[![TON](https://img.shields.io/badge/TON-USDT-0088cc?style=for-the-badge)](https://ton.org)
+[![TRC20](https://img.shields.io/badge/TRC-USDT-26A17B?style=for-the-badge)]()
+
+If this project has saved your time or helped you, feel free to support its development:
+
+| Platform / Network | Link / Wallet Address |
+| :--- | :--- |
+| **Boosty** (Fiat/Cards) | [https://boosty.to/knigaperevodchik](https://boosty.to/knigaperevodchik) |
+| **TON** (USDT) | `UQBWKwf2mgakNi4Ls2I6NNs1okcDyCxivdxxc22ypsMV4590` |
+| **TRC20** (USDT) | `TDdok5FgB6fJSXZrPzxnn7hMk4qREUZPJe` |
+
+---
+
+## 💰 支持此项目 [ZH]
+
+[![Boosty](https://img.shields.io/badge/Boosty-赞助-f15f2c?style=for-the-badge)](https://boosty.to/knigaperevodchik)
+[![TON](https://img.shields.io/badge/TON-USDT-0088cc?style=for-the-badge)](https://ton.org)
+[![TRC20](https://img.shields.io/badge/TRC-USDT-26A17B?style=for-the-badge)]()
+
+如果这个项目对您有所帮助，欢迎赞助以支持项目的持续 white-hat 维护与更新：
+
+| 平台 / 网络 | 链接 / 钱包地址 |
+| :--- | :--- |
+| **Boosty** (法币/银行卡) | [https://boosty.to/knigaperevodchik](https://boosty.to/knigaperevodchik) |
+| **TON** (USDT) | `UQBWKwf2mgakNi4Ls2I6NNs1okcDyCxivdxxc22ypsMV4590` |
+| **TRC20** (USDT) | `TDdok5FgB6fJSXZrPzxnn7hMk4qREUZPJe` |
+
+---
+
+
 
 Скрипт превращает обычный толковый словарь в морфологический — чтобы поиск работал по любой форме слова.
 
